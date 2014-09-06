@@ -1,0 +1,21 @@
+[
+{
+  "modid": "FlameCore",
+  "name": "FlameCore",
+  "description": "Core mod for FlameMods",
+  "version": "0.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Firehead94"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
