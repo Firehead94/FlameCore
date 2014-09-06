@@ -5,4 +5,6 @@
 <fullyQualifiedTypeName name="com.fire.flamecore.ModSettings"/>
 <fullyQualifiedTypeName name="com.fire.flamecore.utils.LogHelper"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="io.netty.handler.logging.LogLevel"/>
 </qualifiedTypeNameHistroy>
