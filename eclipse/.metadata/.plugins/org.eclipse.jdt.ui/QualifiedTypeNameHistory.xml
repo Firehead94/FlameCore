@@ -2,9 +2,12 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.apache.logging.log4j.Level"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.FMLLog"/>
-<fullyQualifiedTypeName name="com.fire.flamecore.ModSettings"/>
 <fullyQualifiedTypeName name="com.fire.flamecore.utils.LogHelper"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
-<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 <fullyQualifiedTypeName name="io.netty.handler.logging.LogLevel"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="com.fire.flamecore.ModSettings"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
 </qualifiedTypeNameHistroy>

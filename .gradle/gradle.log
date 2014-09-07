@@ -16,7 +16,7 @@ Note: F:\ModDev\Mod Development\GitHub\FlameCore\build\sources\java\com\fire\fla
 Note: Recompile with -Xlint:unchecked for details.
 1 warning
 
-:processResources
+:processResources UP-TO-DATE
 :classes
 :jar
 :extractUserDev UP-TO-DATE
@@ -36,4 +36,4 @@ Note: Recompile with -Xlint:unchecked for details.
 
 BUILD SUCCESSFUL
 
-Total time: 16.847 secs
+Total time: 19.259 secs
