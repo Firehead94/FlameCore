@@ -10,4 +10,5 @@
 <fullyQualifiedTypeName name="com.fire.flamecore.ModSettings"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
 <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
 </qualifiedTypeNameHistroy>

@@ -10,7 +10,6 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
-@GameRegistry.ObjectHolder(ModSettings.MOD_ID)
 public class BaseBlock extends Block 
 {
 	public final String DEFAULT = "DEFAULT NAME";

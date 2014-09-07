@@ -11,14 +11,13 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
-@GameRegistry.ObjectHolder(ModSettings.MOD_ID)
 public class BaseItem extends Item 
 {
 
 	public BaseItem() 
 	{
 		super();
-		maxStackSize = 64;
+		this.maxStackSize = 64;
 		setCreativeTab(CreativeTabs.tabMaterials);
 	}
 	
@@ -26,6 +25,11 @@ public class BaseItem extends Item
 	public String getUnlocalizedName()
 	{
 		return String.format("item.%s%s", ModSettings.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+	}
+	
+	public String getUnlocalizedName(String string)
+	{
+		return String.format("%s", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
 	}
 	
 	@Override
