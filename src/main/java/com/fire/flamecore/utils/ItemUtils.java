@@ -1,5 +1,7 @@
 package com.fire.flamecore.utils;
 
+import com.fire.flamecore.ModSettings;
+
 import io.netty.handler.logging.LogLevel;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
